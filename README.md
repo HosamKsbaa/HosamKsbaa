@@ -36,7 +36,7 @@ Performance-driven Graduate with exceptional ability to work hard and creatively
 
 - :seedling: Exploring Technical Content Writing , AWS , Djungo ,and learning diffrent Software architectur .
 
-- :zap: In my free time, I solve problems on GeeksforGeeks , read tech articles and developing my own personal productivity apps.
+- :zap: In my free time, I solve problems on GeeksforGeeks , read tech articles and develop my own personal productivity apps.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hosamksbaa/)
 
