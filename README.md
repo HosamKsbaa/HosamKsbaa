@@ -3,20 +3,27 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 </div>
 
-<div id="badges">
-  <a href="[https://www.linkedin.com/in/hosamksbaa/]">
+## Connect with me  
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/hosamksbaa/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-youtube-URL](https://www.youtube.com/channel/UCVu1zQRZxhNbKeQlAkOSs_g)">
+  <a href="https://www.youtube.com/channel/UCVu1zQRZxhNbKeQlAkOSs_g">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="[your-twitter-URL](https://twitter.com/Hosam_Ksbaa)">
+  <a href="your-twitter-URL](https://twitter.com/Hosam_Ksbaa">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+
+  
+
+<br/>
 
 ---
 
@@ -83,6 +90,26 @@ I am a App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 
 <!--
+<div align="center">
+<a href="https://github.com/abdelrahmanelmarakby" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/elmarakby0" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/abdelrahman-elmarakby-4a110916b/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/elmarakbeno" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/11614768/abdelrahman-m-elmarakby" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/elmarakbeno" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
 profile view counter
 <img src="https://komarev.com/ghpvc/?username=HosamKsbaa&style=flat-square&color=blue" alt=""/>
 to add later
