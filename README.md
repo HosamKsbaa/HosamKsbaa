@@ -1,4 +1,11 @@
 ### Hi there 👋
+
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 <div id="badges">
   <a href="[https://www.linkedin.com/in/hosamksbaa/]">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,9 +18,7 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+---
 
 
 ### :man_technologist: About Me :
@@ -60,12 +65,22 @@ I am a App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
+
+
+---
 
 ### :fire: My Stats :
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HosamKsbaa&show_icons=true&theme=radical&show_icons=true&count_private=true&hide_border=true" style="width: 100%" /></div>  
+<br/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HosamKsbaa&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HosamKsbaa)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=HosamKsbaa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 <!--
 profile view counter
