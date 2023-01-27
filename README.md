@@ -1,11 +1,6 @@
 ### Hi there 👋
 
 
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
-</div>
-
 ## Connect with me  
 
 <div id="badges" align="center">
