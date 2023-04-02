@@ -13,7 +13,6 @@ I am also continuously improving my skills in AI and data science to develop mor
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HosamKsbaa)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/HosamKsbaa)  
-
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 ![Profile views](https://gpvc.arturio.dev/HosamKsbaa)  
 ![](https://github.com/HosamKsbaa/metrics/blob/master/github-metrics.svg)
