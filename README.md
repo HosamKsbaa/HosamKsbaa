@@ -6,11 +6,7 @@ With a Bachelor's degree in Computer Science and a Master's degree in Informatic
 
 I am also continuously improving my skills in AI and data science to develop more sophisticated automation tools and make intelligent decisions based on data analysis and machine learning algorithms. My focus on MLOps allows me to deploy machine learning models in production, ensuring that they are scalable, reliable, and secure.
 
-I am a problem-solver at heart, and I take pride in creating elegant, efficient solutions to complex problems. I am a strong collaborator and team player, and I thrive in environments where I can learn from and share knowledge with my colleagues.
-www.goodreads.com/user/show/91892617-hosam
 
-
-- 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HosamKsbaa)  
