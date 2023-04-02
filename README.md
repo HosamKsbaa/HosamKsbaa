@@ -9,10 +9,6 @@ I am also continuously improving my skills in AI and data science to develop mor
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HosamKsbaa)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HosamKsbaa)](https://github.com/anuraghazra/github-readme-stats)
-
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 ![Profile views](https://gpvc.arturio.dev/HosamKsbaa)  
