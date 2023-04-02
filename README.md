@@ -16,3 +16,4 @@ I am also continuously improving my skills in AI and data science to develop mor
 ![GitHub metrics](https://metrics.lecoq.io/HosamKsbaa)  
 
 ![Profile views](https://gpvc.arturio.dev/HosamKsbaa)  
+![](https://github.com/HosamKsbaa/metrics/blob/master/github-metrics.svg)
