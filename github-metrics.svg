@@ -1769,7 +1769,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     inspirer
-                                    <span class="gh">ranked 111k out of 410m repositories</span>
+                                    <span class="gh">ranked 105k out of 410m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">104</div>
                                     </div>
@@ -2148,7 +2148,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jun 2023, 23:12:54 (timezone Africa/Cairo) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 24 Jun 2023, 00:13:42 (timezone Africa/Cairo) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
