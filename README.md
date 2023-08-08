@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Hosam K 
-#### Software Engineer| DevOps Enthusiast | ML Applied Scientist | Leveraging Technology for Automation, AI, and Data-driven Solutions
+### Software Engineer| DevOps Enthusiast | ML Applied Scientist | Leveraging Technology for Automation, AI, and Data-driven Solutions
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 As a software engineer with experience in developing cross-platform apps, building automation tools, and working with big data and machine learning, I am passionate about leveraging technology to enhance human capabilities. I believe that automation and AI have tremendous potential to improve our lives, and I am committed to exploring that potential through my work.
