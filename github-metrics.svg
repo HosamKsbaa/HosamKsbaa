@@ -1818,7 +1818,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 127k out of 86.9m repositories</span>
+                                    <span class="gh">ranked 127k out of 72.6m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">99</div>
                                     </div>
@@ -2161,7 +2161,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Mar 2024, 23:12:19 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Mar 2024, 00:11:44 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
