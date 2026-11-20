@@ -1,17 +1,38 @@
-### Hi there 👋, my name is Hosam K 
-hello 
+### Hi, I'm Hosam K 👋
 
-### Software Engineer| DevOps Enthusiast | ML Applied Scientist | Leveraging Technology for Automation, AI, and Data-driven Solutions
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+**Software Engineer · Backend & AI Systems · Cloud & DevOps**
 
-As a software engineer with experience in developing cross-platform apps, building automation tools, and working with big data and machine learning, I am passionate about leveraging technology to enhance human capabilities. I believe that automation and AI have tremendous potential to improve our lives, and I am committed to exploring that potential through my work.
+I build production **FastAPI / TypeScript** backends, **AI & Knowledge Graph** research systems, **AWS/Cloud** infrastructure, and cross-platform **Flutter** applications.
 
-With a Bachelor's degree in Computer Science and a Master's degree in Informatics, I have a strong foundation in programming and software development principles. I am proficient in DevOps and have experience in auto-deployment and maintaining apps for clients. Additionally, I have expertise in cloud computing, allowing me to leverage the power of cloud-based services to build scalable and secure applications.
+<img src="/github-metrics.svg" alt="GitHub Metrics" width="100%">
 
-I am also continuously improving my skills in AI and data science to develop more sophisticated automation tools and make intelligent decisions based on data analysis and machine learning algorithms. My focus on MLOps allows me to deploy machine learning models in production, ensuring that they are scalable, reliable, and secure.
+---
 
+### Featured Projects
 
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| [**GraphSelect**](https://github.com/HosamKsbaa/GraphSelect--Advancing-Research-Papers-Semantic-Search-with-Embedding-and-Knowledge-Graphs) | `Python` `FastAPI` `Gemini` | Semantic academic paper discovery & ranking combining embeddings, OpenAlex citation graphs, and PageRank |
+| [**Antigravity Cloud Hub**](https://github.com/HosamKsbaa/antigravity-cloud-hub) | `TypeScript` `React` `PostgreSQL` | Central registry, RBAC auth, and telemetry control plane for Antigravity plugins & skills |
+| [**HDM OpenAPI Wrapper**](https://github.com/HosamKsbaa/hdm_open_api_wrapper) | `Dart` `Flutter` `Dio` | Production Flutter networking & state wrapper for OpenAPI clients with infinite pagination |
+| [**X_bloc**](https://github.com/HosamKsbaa/X_bloc) | `Dart` `Flutter` | Custom Flutter state management, widget caching, and dependency injection system |
+| [**AWS HA Web App (CloudFormation)**](https://github.com/HosamKsbaa/Deploy-a-high-availability-web-app-using-CloudFormation) | `AWS` `CloudFormation` `IaC` | Multi-AZ VPC, NAT Gateways, ALB, and Auto Scaling Group deployed via modular CloudFormation stacks |
+| [**Neo4j Research Sandbox**](https://github.com/HosamKsbaa/neo4j_Research_nie) | `Neo4j` `RDF` `Docker` | Knowledge graph & RDF triple ingestion sandbox using Neo4j, APOC, and Neosemantics (`n10s`) |
 
+---
 
+### Tech Stack
 
-![Profile views](https://gpvc.arturio.dev/HosamKsbaa)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+![Profile views](https://gpvc.arturio.dev/HosamKsbaa)
